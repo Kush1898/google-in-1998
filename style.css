@@ -1,0 +1,62 @@
+.link1 {
+   display: block;
+   text-align: center;
+   text-decoration: none;
+}
+
+.p1 {
+    display: block;
+   text-align: center;
+}
+
+.img1 {
+    width: 300px;
+    height: 120px;
+}
+
+.search {
+   text-align: left;
+   width: 27cm;
+
+}
+
+.tds {
+    width: 10cm;
+}
+
+.tdsh {
+    text-align: right;
+    vertical-align: text-top;
+
+}
+
+.help {
+    text-decoration: none;
+}
+
+.l2 {
+    color: green;
+    text-decoration: none;
+}
+
+.l3{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pb {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ld {
+    text-align: center;
+}
+
+.button {
+    background-color: aliceblue;
+}
